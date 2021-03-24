@@ -38,6 +38,8 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan)](https://github.com/anuraghazra/github-readme-stats)
+### My Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan)
 
+### My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true)  
