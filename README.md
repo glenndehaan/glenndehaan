@@ -39,7 +39,7 @@
 <br/>
 
 ### My Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan&theme=dark)
 
 ### My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true&theme=dark)  
