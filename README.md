@@ -35,6 +35,9 @@
 <img align="left" alt="Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
 <img align="left" alt="Google" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 
+<br/>
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true)  
