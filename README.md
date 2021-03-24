@@ -99,6 +99,8 @@
 
 ### My Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
 
 ### My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117)
