@@ -35,7 +35,7 @@
             <br/>React
         </td>
         <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="48" height="48" alt="GraphQL" />
+            <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="GraphQL" />
             <br/>GraphQL
         </td>
         <td align="center" width="96">
@@ -65,8 +65,8 @@
             <br/>GitHub
         </td>
         <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="48" height="48" alt="Linux" />
-            <br/>Linux
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" />
+            <br/>Ubuntu
         </td>
         <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" width="48" height="48" alt="Ansible" />
