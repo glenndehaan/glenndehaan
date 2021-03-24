@@ -28,12 +28,6 @@
             </a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.youtube.com/channel/glenndehaan">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="48" height="48" alt="Youtube" />
-                <br/>Youtube
-            </a>
-        </td>
-        <td align="center" width="96">
             <a href="https://www.reddit.com/user/glenndehaan">
                 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" width="48" height="48" alt="Reddit" />
                 <br/>Reddit
