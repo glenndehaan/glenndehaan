@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on exciting projects 
 - 💬 Ask me about anything 
 - 📫 How to reach me: glenn@dehaan.cloud 
-- ⚡ Fun fact: my hobby is Bowling 
+- ⚡ Fun fact: my hobby is Bowling 🎳
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glenndehaan)
