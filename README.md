@@ -7,12 +7,46 @@
 - ⚡ Fun fact: my hobby is Bowling 🎳
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glenndehaan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/glenndehaan/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/glenndehaan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/glenndehaan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/glenndehaan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://glenndehaan.com)
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://github.com/glenndehaan">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="48" height="48" alt="GitHub" />
+                <br/>GitHub
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.linkedin.com/in/glenndehaan/">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" />
+                <br/>LinkedIn
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://twitter.com/glenndehaan">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="48" height="48" alt="Twitter" />
+                <br/>Twitter
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.youtube.com/channel/glenndehaan">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="48" height="48" alt="Youtube" />
+                <br/>Youtube
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.reddit.com/user/glenndehaan">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" width="48" height="48" alt="Reddit" />
+                <br/>Reddit
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://glenndehaan.com">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" width="48" height="48" alt="glenndehaan.com" />
+                <br/>glenndehaan.com
+            </a>
+        </td>
+    </tr>
+</table>
 
 ### My Daily Languages and Tools:
 
