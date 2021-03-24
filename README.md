@@ -6,7 +6,7 @@
 - 📫 How to reach me: glenn@dehaan.cloud 
 - ⚡ Fun fact: my hobby is Bowling 🎳
 
-### Connect with me:
+### Let's connect:
 <table>
     <tr>
         <td align="center" width="96">
