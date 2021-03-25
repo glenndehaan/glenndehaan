@@ -126,9 +126,9 @@
 <br/>
 
 ### My GitHub Stats:
-<a href="#">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
 </a>
-<a href="#">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
 </a>
