@@ -8,6 +8,7 @@
 
 #### My recent projects
 
+- 🚚 Ship (A docker swarm service manager/updater) - https://github.com/glenndehaan/ship
 - 🎢 DLP Wait (A wait times / entertainment schedule app for Disneyland Paris) - https://github.com/glenndehaan/dlpwait - https://dlpwait.com
 - 🔐 Auth Portal (Simple Auth Portal that works with nginx) - https://github.com/glenndehaan/auth-portal - https://hub.docker.com/r/glenndehaan/auth-portal
 - 🌐 Static Server (A Docker base image for serving static websites) - https://github.com/glenndehaan/static-server - https://hub.docker.com/r/glenndehaan/static-server
