@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Glenn
 #### I am a passionate DevOps Engineer always on the lookout for new challenges
 
+Like my projects? [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1F5WD2)
+
 - 👯 I’m looking to collaborate on exciting projects 
 - 💬 Ask me about anything 
 - 📫 How to reach me: glenn@dehaan.cloud 
