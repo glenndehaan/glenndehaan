@@ -19,7 +19,6 @@ Like my projects? Then consider buying me a coffee:
 - 🛒 ACME MicroService Merch Store (An example application utilizing microservices) - https://github.com/glenndehaan/microservice-store - https://acme-merch.com/
 - 🎲 Open Rummy (A tool for playing the Open Rummy playing card game) - https://github.com/glenndehaan/open-rummy - https://open-rummy.com/ - https://play.google.com/store/apps/details?id=com.open_rummy.twa
 - 📄 Ikea Tradfri CoAP Docs (Documentation for the IKEA Tradfri CoAP Protocol) - https://github.com/glenndehaan/ikea-tradfri-coap-docs
-- 📡 PXN (A plex compatible XMLTV generator for The Netherlands) - https://github.com/glenndehaan/pxn
 - 🎳 oilpattern.com (A PWA for viewing oil patterns used in the Bowling sport) - https://github.com/glenndehaan/oilpattern.com - https://oilpattern.com/
 
 ### Let's connect:
