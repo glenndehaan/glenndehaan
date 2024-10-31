@@ -23,16 +23,11 @@ Like my projects? Then consider buying me a coffee:
 - 🎳 oilpattern.com (A PWA for viewing oil patterns used in the Bowling sport) - https://github.com/glenndehaan/oilpattern.com - https://oilpattern.com/
 
 ### Let's connect
-
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glenndehaan)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glenndehaan/)
-
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/glenndehaan)
-
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/glenndehaan)
-
-[glenndehaan.com](https://glenndehaan.com)
+[![Portfolio](https://img.shields.io/badge/glenndehaan.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://glenndehaan.com)
 
 ### My Daily Languages and Tools
 
