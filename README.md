@@ -12,135 +12,59 @@ Like my projects? Then consider buying me a coffee:
 
 #### My recent projects
 
-- 🚢 Ship (A docker swarm service manager/updater) - https://github.com/glenndehaan/ship
+- 🛜 UniFi Voucher Site (Web-based platform for generating and managing UniFi network guest vouchers) - https://github.com/glenndehaan/unifi-voucher-site
 - 🎢 DLP Wait (A wait times / entertainment schedule app for Disneyland Paris) - https://github.com/glenndehaan/dlpwait - https://dlpwait.com
+- 🎲 Open Rummy (A tool for playing the Open Rummy playing card game) - https://github.com/glenndehaan/open-rummy - https://open-rummy.com/ - https://play.google.com/store/apps/details?id=com.open_rummy.twa
+- ⚙️ Docker Tools (Collection of tools and resources designed to enhance debugging experience within Docker, Docker Swarm, and Kubernetes environments) - https://github.com/glenndehaan/docker-tools
+- 📄 Ikea Tradfri CoAP Docs (Documentation for the IKEA Tradfri CoAP Protocol) - https://github.com/glenndehaan/ikea-tradfri-coap-docs
 - 🔐 Auth Portal (Simple Auth Portal that works with nginx) - https://github.com/glenndehaan/auth-portal - https://hub.docker.com/r/glenndehaan/auth-portal
 - 🌐 Static Server (A Docker base image for serving static websites) - https://github.com/glenndehaan/static-server - https://hub.docker.com/r/glenndehaan/static-server
 - 🛒 ACME MicroService Merch Store (An example application utilizing microservices) - https://github.com/glenndehaan/microservice-store - https://acme-merch.com/
-- 🎲 Open Rummy (A tool for playing the Open Rummy playing card game) - https://github.com/glenndehaan/open-rummy - https://open-rummy.com/ - https://play.google.com/store/apps/details?id=com.open_rummy.twa
-- 📄 Ikea Tradfri CoAP Docs (Documentation for the IKEA Tradfri CoAP Protocol) - https://github.com/glenndehaan/ikea-tradfri-coap-docs
 - 🎳 oilpattern.com (A PWA for viewing oil patterns used in the Bowling sport) - https://github.com/glenndehaan/oilpattern.com - https://oilpattern.com/
 
-### Let's connect:
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://github.com/glenndehaan">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="48" height="48" alt="GitHub" />
-                <br/>GitHub
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.linkedin.com/in/glenndehaan/">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" />
-                <br/>LinkedIn
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://twitter.com/glenndehaan">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="48" height="48" alt="Twitter" />
-                <br/>Twitter
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.reddit.com/user/glenndehaan">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" width="48" height="48" alt="Reddit" />
-                <br/>Reddit
-            </a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://glenndehaan.com">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" width="48" height="48" alt="glenndehaan.com" />
-                <br/>glenndehaan.com
-            </a>
-        </td>
-    </tr>
-</table>
+### Let's connect
 
-### My Daily Languages and Tools:
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glenndehaan)
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" />
-            <br/>HTML5
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" />
-            <br/>CSS3
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="Javascript" />
-            <br/>Javascript
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
-            <br/>React
-        </td>
-        <td align="center" width="96">
-            <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="GraphQL" />
-            <br/>GraphQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="NodeJS" />
-            <br/>NodeJS
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="MySQL" />
-            <br/>MySQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="48" height="48" alt="MongoDB" />
-            <br/>MongoDB
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="48" height="48" alt="ESLint" />
-            <br/>ESLint
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="48" height="48" alt="Webpack" />
-            <br/>Webpack
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="48" height="48" alt="GitHub" />
-            <br/>GitHub
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" />
-            <br/>Ubuntu
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" width="48" height="48" alt="Ansible" />
-            <br/>Ansible
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="48" height="48" alt="Docker" />
-            <br/>Docker
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" width="48" height="48" alt="Firefox" />
-            <br/>Firefox
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-            <br/>Grafana
-        </td>
-        <td align="center" width="96">
-            <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" width="48" height="48" alt="InfluxDB" />
-            <br/>InfluxDB
-        </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" width="48" height="48" alt="Google" />
-            <br/>Google
-        </td>
-    </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glenndehaan/)
 
-<br/>
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/glenndehaan)
 
-### My GitHub Stats:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/glenndehaan)
+
+[glenndehaan.com](https://glenndehaan.com)
+
+### My Daily Languages and Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+
+### My GitHub Stats
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
 </a>
