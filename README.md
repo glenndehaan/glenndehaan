@@ -65,11 +65,3 @@ Like my projects? Then consider buying me a coffee:
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
-### My GitHub Stats
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenndehaan&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenndehaan&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
-</a>
