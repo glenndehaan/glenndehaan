@@ -17,7 +17,6 @@ Like my projects? Then consider buying me a coffee:
 - 🎲 Open Rummy (A tool for playing the Open Rummy playing card game) - https://github.com/glenndehaan/open-rummy - https://open-rummy.com/ - https://play.google.com/store/apps/details?id=com.open_rummy.twa
 - ⚙️ Docker Tools (Collection of tools and resources designed to enhance debugging experience within Docker, Docker Swarm, and Kubernetes environments) - https://github.com/glenndehaan/docker-tools
 - 📄 Ikea Tradfri CoAP Docs (Documentation for the IKEA Tradfri CoAP Protocol) - https://github.com/glenndehaan/ikea-tradfri-coap-docs
-- 🛒 ACME MicroService Merch Store (An example application utilizing microservices) - https://github.com/glenndehaan/microservice-store - https://acme-merch.com/
 - 🎳 oilpattern.com (A PWA for viewing oil patterns used in the Bowling sport) - https://github.com/glenndehaan/oilpattern.com - https://oilpattern.com/
 
 ### Let's connect
